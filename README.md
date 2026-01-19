@@ -6,7 +6,9 @@
 - Python · Unity 활용
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ckdrms0113&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckdrms0113&layout=compact&theme=radical)
 ## 🛠 Skills
 - Python
 - C#
@@ -28,6 +30,4 @@
 ## 🔗 Links
 - LinkedIn: https://www.linkedin.com/in/harua1210
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ckdrms0113&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckdrms0113&layout=compact&theme=radical)
